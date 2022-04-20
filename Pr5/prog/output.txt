@@ -1,0 +1,651 @@
+JD: 2.45177e+06
+Modify JD: 51771.9
+
+                COCO: coordinate conversions       
+        (c) 1999 Oliver Montenbruck, Thomas Pfleger
+
+
+New input:
+
+  Reference system (e=ecliptic,a=equator) ...   Format (c=cartesian,p=polar)            ...   Coordinates (RA [h m s] Dec [o ' "] R)  ...   Equinox (yyyy.y)                        ...   Origin (h=heliocentric,g=geocentric)    ...   Epoch (yyyy mm dd hh.h)                 ... 
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (           1,           0,           0)
+
+         h  m  s               o  '  "
+  RA =  0 00 0.001    Dec =   0 00 0.01    R =            1
+
+
+Enter command (?=Help) ... -------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (           1,           0,           0)
+
+         h  m  s               o  '  "
+  RA =  0 00 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (           1,-4.1040127e-11,-1.2834316e-10)
+
+         h  m  s               o  '  "
+  RA = 24 00 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99999048,0.0043633093,           0)
+
+         h  m  s               o  '  "
+  RA =  0 01 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99999048,0.0043633092,-1.2935632e-10)
+
+         h  m  s               o  '  "
+  RA =  0 01 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99996192,0.0087265355,           0)
+
+         h  m  s               o  '  "
+  RA =  0 02 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99996192,0.0087265355,-1.3036706e-10)
+
+         h  m  s               o  '  "
+  RA =  0 02 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99991433, 0.013089596,           0)
+
+         h  m  s               o  '  "
+  RA =  0 03 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99991433, 0.013089596,-1.3137532e-10)
+
+         h  m  s               o  '  "
+  RA =  0 03 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9998477, 0.017452406,           0)
+
+         h  m  s               o  '  "
+  RA =  0 04 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9998477, 0.017452406,-1.3238104e-10)
+
+         h  m  s               o  '  "
+  RA =  0 04 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99976203, 0.021814885,           0)
+
+         h  m  s               o  '  "
+  RA =  0 05 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99976203, 0.021814885,-1.3338427e-10)
+
+         h  m  s               o  '  "
+  RA =  0 05 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99965732, 0.026176948,           0)
+
+         h  m  s               o  '  "
+  RA =  0 06 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99965732, 0.026176948,-1.3438496e-10)
+
+         h  m  s               o  '  "
+  RA =  0 06 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99953359, 0.030538513,           0)
+
+         h  m  s               o  '  "
+  RA =  0 07 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99953359, 0.030538513,-1.3538306e-10)
+
+         h  m  s               o  '  "
+  RA =  0 07 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99939083, 0.034899497,           0)
+
+         h  m  s               o  '  "
+  RA =  0 08 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99939083, 0.034899497,-1.3637867e-10)
+
+         h  m  s               o  '  "
+  RA =  0 08 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99922904, 0.039259816,           0)
+
+         h  m  s               o  '  "
+  RA =  0 09 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99922904, 0.039259816,-1.373716e-10)
+
+         h  m  s               o  '  "
+  RA =  0 09 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99904822, 0.043619387,           0)
+
+         h  m  s               o  '  "
+  RA =  0 10 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99904822, 0.043619387,-1.3836199e-10)
+
+         h  m  s               o  '  "
+  RA =  0 10 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99884839, 0.047978129,           0)
+
+         h  m  s               o  '  "
+  RA =  0 11 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99884839, 0.047978128,-1.3934968e-10)
+
+         h  m  s               o  '  "
+  RA =  0 11 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99862953, 0.052335956,           0)
+
+         h  m  s               o  '  "
+  RA =  0 12 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99862953, 0.052335956,-1.4033471e-10)
+
+         h  m  s               o  '  "
+  RA =  0 12 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99839167, 0.056692788,           0)
+
+         h  m  s               o  '  "
+  RA =  0 13 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99839167, 0.056692788,-1.4131707e-10)
+
+         h  m  s               o  '  "
+  RA =  0 13 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9981348,  0.06104854,           0)
+
+         h  m  s               o  '  "
+  RA =  0 14 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9981348, 0.061048539,-1.4229679e-10)
+
+         h  m  s               o  '  "
+  RA =  0 14 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99785892, 0.065403129,           0)
+
+         h  m  s               o  '  "
+  RA =  0 15 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99785892, 0.065403129,-1.432738e-10)
+
+         h  m  s               o  '  "
+  RA =  0 15 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99756405, 0.069756474,           0)
+
+         h  m  s               o  '  "
+  RA =  0 16 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99756405, 0.069756474,-1.4424801e-10)
+
+         h  m  s               o  '  "
+  RA =  0 16 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99725019,  0.07410849,           0)
+
+         h  m  s               o  '  "
+  RA =  0 17 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99725019,  0.07410849,-1.4521951e-10)
+
+         h  m  s               o  '  "
+  RA =  0 17 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99691733, 0.078459096,           0)
+
+         h  m  s               o  '  "
+  RA =  0 18 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99691733, 0.078459096,-1.4618834e-10)
+
+         h  m  s               o  '  "
+  RA =  0 18 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9965655, 0.082808208,           0)
+
+         h  m  s               o  '  "
+  RA =  0 19 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9965655, 0.082808207,-1.4715433e-10)
+
+         h  m  s               o  '  "
+  RA =  0 19 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9961947, 0.087155743,           0)
+
+         h  m  s               o  '  "
+  RA =  0 20 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9961947, 0.087155743,-1.4811749e-10)
+
+         h  m  s               o  '  "
+  RA =  0 20 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99580493, 0.091501619,           0)
+
+         h  m  s               o  '  "
+  RA =  0 21 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99580493, 0.091501619,-1.4907777e-10)
+
+         h  m  s               o  '  "
+  RA =  0 21 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9953962, 0.095845753,           0)
+
+         h  m  s               o  '  "
+  RA =  0 22 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9953962, 0.095845752,-1.5003537e-10)
+
+         h  m  s               o  '  "
+  RA =  0 22 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99496852,  0.10018806,           0)
+
+         h  m  s               o  '  "
+  RA =  0 23 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99496852,  0.10018806,-1.5099003e-10)
+
+         h  m  s               o  '  "
+  RA =  0 23 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9945219,  0.10452846,           0)
+
+         h  m  s               o  '  "
+  RA =  0 24 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (   0.9945219,  0.10452846,-1.519418e-10)
+
+         h  m  s               o  '  "
+  RA =  0 24 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99405634,  0.10886687,           0)
+
+         h  m  s               o  '  "
+  RA =  0 25 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99405634,  0.10886687,-1.5289068e-10)
+
+         h  m  s               o  '  "
+  RA =  0 25 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99357186,  0.11320321,           0)
+
+         h  m  s               o  '  "
+  RA =  0 26 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99357186,  0.11320321,-1.5383668e-10)
+
+         h  m  s               o  '  "
+  RA =  0 26 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99306846,   0.1175374,           0)
+
+         h  m  s               o  '  "
+  RA =  0 27 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99306846,   0.1175374,-1.5477979e-10)
+
+         h  m  s               o  '  "
+  RA =  0 27 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99254615,  0.12186934,           0)
+
+         h  m  s               o  '  "
+  RA =  0 28 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99254615,  0.12186934,-1.557199e-10)
+
+         h  m  s               o  '  "
+  RA =  0 28 0.001    Dec = - 0 00 0.01    R =            1
+
+
+-------------------------------------------------------------------------
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99200495,  0.12619897,           0)
+
+         h  m  s               o  '  "
+  RA =  0 29 0.001    Dec =   0 00 0.01    R =            1
+
+
+
+Geocentric equatorial coordinates
+(Equinox J2e+03,  Epoch 2000/08/15 2e+01)
+
+  (x,y,z) =  (  0.99200495,  0.12619897,-1.5665704e-10)
+
+         h  m  s               o  '  "
+  RA =  0 29 0.001    Dec = - 0 00 0.01    R =            1
+
+
+Enter command (?=Help) ... 
